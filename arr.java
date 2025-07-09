@@ -6,7 +6,7 @@ public class arr {
         {
         sum = sum+a[b];
         System.out.println(sum);
-
+// practice 
         }
         
     }
